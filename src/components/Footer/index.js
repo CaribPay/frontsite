@@ -32,7 +32,7 @@ const Footer = () => {
               <FooterLink to="/signin">Testimonials</FooterLink>
               <FooterLink to="/signin">Investors</FooterLink>
               <FooterLink to="/signin">Careers</FooterLink>
-              <FooterLink to="/signin">Terms of Services</FooterLink>
+              <FooterLink to="/signin">Terms</FooterLink>
             </FooterLinkItems>
             <FooterLinkItems>
               <FooterLinkTitle> Social Media</FooterLinkTitle>
@@ -55,8 +55,8 @@ const Footer = () => {
               <FooterLinkTitle> Contact Us</FooterLinkTitle>
               <FooterLink to="/signin">Contact</FooterLink>
               <FooterLink to="/signin">Support</FooterLink>
-              <FooterLink to="/signin">Destinations</FooterLink>
-              <FooterLink to="/signin">Sponsorship</FooterLink>
+              <FooterLink to="/signin">Rates</FooterLink>
+              <FooterLink to="/signin">Investors</FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>
         </FooterLinksContainer>
@@ -66,17 +66,17 @@ const Footer = () => {
           <SocialLogo to="/" onClick={toggleHome}>
             bankkr
           </SocialLogo>
-          <WebsiteRights>bankkr © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
+          <WebsiteRights>Caribpay © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
           <SocialIcons>
             <SocialIconLink
-              href="https://twitter.com/iRandeepRana"
+              href="https://twitter.com/Caribpay"
               target="_blank"
               area-label="Facebook"
             >
               <FaFacebook />
             </SocialIconLink>
             <SocialIconLink
-              href="https://www.instagram.com/randeep_rana_official/"
+              href="https://www.instagram.com/caribpay/"
               target="_blank"
               area-label="Instagram"
             >
@@ -90,14 +90,14 @@ const Footer = () => {
               <FaYoutube />
             </SocialIconLink>
             <SocialIconLink
-              href="https://twitter.com/iRandeepRana"
+              href="https://twitter.com/Caribpay/*
               target="_blank"
               area-label="Twitter"
             >
               <FaTwitter />
             </SocialIconLink>
             <SocialIconLink
-              href="https://www.linkedin.com/in/randeep-rana-dev/"
+              href="https://www.linkedin.com/in/everpay/"
               target="_blank"
               area-label="Linkedin"
             >
