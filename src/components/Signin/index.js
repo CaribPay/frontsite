@@ -18,7 +18,7 @@ const SignIn = () => {
   return (
     <Container>
       <FormWrap>
-        <Icon to="/">bankkr</Icon>
+        <Icon to="/">Caribpay</Icon>
         <FormContent>
           <Form action="#">
             <FormH1>Sign in to your account</FormH1>
