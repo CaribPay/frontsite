@@ -3,7 +3,7 @@ export const homeObjOne = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: "Internatinal Payments",
+  topLine: "International Payments",
   headline: "Unlimited Transactions with low fees",
   description:
     "Get access to our exclusive app that allows you to accept and send unlimited payments by crypto, credit card or local payment methods.",
