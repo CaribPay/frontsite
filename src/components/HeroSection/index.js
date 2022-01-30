@@ -26,9 +26,9 @@ const HeroSection = () => {
         <VideoBg autoPlay loop muted src={Video} type="video/mp4" />
       </HeroBg>
       <HeroContent>
-        <HeroH1>Payments ftMade Easy</HeroH1>
+        <HeroH1>Payments Made Easy</HeroH1>
         <HeroP>
-          Sign up for a new account today and recieve $100 in credit towards your next payment.
+          Sign up for a new account today and receive $100 in credit towards your next payment.
         </HeroP>
         <HeroBtnWrapper>
           <Button
