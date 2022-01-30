@@ -18,8 +18,8 @@ export const HeroContainer = styled.div`
     right: 0;
     left: 0;
     bottom: 0;
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.6) 100%),
-      linear-gradient(180deg, rgba(0, 0, 0, 0.2) 0%, transparent 100%);
+    background: linear-gradient(180deg, rgba(185, 225, 225, 0.2) 0%, rgba(0, 0, 0, 0.6) 100%),
+      linear-gradient(180deg, rgba(225, 225, 225, 0.2) 0%, transparent 100%);
     z-index: 2;
   }
 `;
