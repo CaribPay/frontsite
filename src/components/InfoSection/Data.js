@@ -3,10 +3,10 @@ export const homeObjOne = {
   lightBg: false,
   lightText: true,
   lightTextDesc: true,
-  topLine: "Premium Bank",
-  headline: "Unlimited Transactions with zero fees",
+  topLine: "Internatinal Payments",
+  headline: "Unlimited Transactions with low fees",
   description:
-    "Get access to our exclusive app that allows you to send unlimited transaction without charging any fees.",
+    "Get access to our exclusive app that allows you to accept and send unlimited payments by crypto, credit card or local payment methods.",
   buttonLabel: "Get started",
   imgStart: true,
   img: require("../../images/svg-2.svg").default,
@@ -21,7 +21,7 @@ export const homeObjTwo = {
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
-  topLine: "Unlimited Acess",
+  topLine: " Secure Access",
   headline: "Login to your account at any time",
   description:
     "We have you covered no matter where you are located. All you need is an internet connection and a phone or computer",
@@ -39,7 +39,7 @@ export const homeObjThree = {
   lightBg: true,
   lightText: false,
   lightTextDesc: false,
-  topLine: "Join our Team",
+  topLine: "Get started now",
   headline: "Creating an account is extremely easy",
   description:
     "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
