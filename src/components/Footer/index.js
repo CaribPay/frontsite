@@ -64,7 +64,7 @@ const Footer = () => {
       <SocialMedia>
         <SocialMediaWrap>
           <SocialLogo to="/" onClick={toggleHome}>
-            bankkr
+            
           </SocialLogo>
           <WebsiteRights>Caribpay © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
           <SocialIcons>
