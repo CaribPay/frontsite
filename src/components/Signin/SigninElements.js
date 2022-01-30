@@ -51,7 +51,7 @@ export const FormContent = styled.div`
 `;
 
 export const Form = styled.form`
-  background: #010101;
+  background: #ffffff;
   max-width: 400px;
   height: auto;
   width: 100%;
@@ -69,7 +69,7 @@ export const Form = styled.form`
 
 export const FormH1 = styled.h1`
   margin-bottom: 40px;
-  color: "#fff";
+  color: "#101522";
   font-size: 20px;
   font-weight: 400;
   text-align: center;
@@ -77,7 +77,7 @@ export const FormH1 = styled.h1`
 export const FormLabel = styled.label`
   margin-bottom: 8px;
   font-size: 14px;
-  color: "#fff";
+  color: "#101522";
 `;
 export const FormInput = styled.input`
   padding: 16px 16px;
@@ -98,6 +98,6 @@ export const FormButton = styled.button`
 export const Text = styled.span`
   text-align: center;
   margin-top: 24px;
-  color: #fff;
+  color: #101522;
   font-size: 14px;
 `;
