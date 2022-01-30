@@ -90,7 +90,7 @@ const Footer = () => {
               <FaYoutube />
             </SocialIconLink>
             <SocialIconLink
-              href="https://twitter.com/Caribpay/
+              href="https://twitter.com/Caribpay/"
               target="_blank"
               area-label="Twitter"
             >
