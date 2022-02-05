@@ -39,6 +39,10 @@ export const NavLogo = styled(LinkR)`
   margin-left: 24px;
   font-weight: bold;
   text-decoration: none;
+
+ &.active {
+    border-bottom: 3px solid #01bf71;
+  }
 `;
 
 export const NavLogo = styled(LinkL)`
@@ -51,6 +55,10 @@ export const NavLogo = styled(LinkL)`
   margin-left: 24px;
   font-weight: bold;
   text-decoration: none;
+
+ &.active {
+    border-bottom: 0px solid;
+  }
 `;
 
 export const MobileIcon = styled.div`
