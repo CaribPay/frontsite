@@ -39,26 +39,6 @@ export const NavLogo = styled(LinkR)`
   margin-left: 24px;
   font-weight: bold;
   text-decoration: none;
-
- &.active {
-    border-bottom: 3px solid #01bf71;
-  }
-`;
-
-export const NavLogo = styled(LinkS)`
-  color: #101522;
-  justify-self: flex-start;
-  cursor: pointer;
-  font-size: 1.5rem;
-  display: flex;
-  align-items: center;
-  margin-left: 24px;
-  font-weight: bold;
-  text-decoration: none;
-
- &.active {
-    border-bottom: 0px solid;
-  }
 `;
 
 export const MobileIcon = styled.div`
@@ -127,29 +107,5 @@ export const NavBtnLink = styled(LinkR)`
   transition: all 0.2s ease-in-out;
   text-decoration: none;
 
-  &:hover {
-    transition: all 0.2s ease-in-out;
-    background: #fff;
-    color: #010606;
-  }
 `;
-
-export const NavBtnLink = styled(LinkS)`
-  border-radius: 50px;
-  background: #fff;
-  padding: 10px 22px;
-  color: #fcfcfc;
-  white-space: nowrap;
-  font-size: 16px;
-  outline: none;
-  border: none;
-  cursor: pointer;
-  transition: all 0.2s ease-in-out;
-  text-decoration: none;
-
-  &:hover {
-    transition: all 0.2s ease-in-out;
-    background: #fff;
-    color: #010606;
-  }
-`;
+  
