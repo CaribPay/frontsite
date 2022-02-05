@@ -45,7 +45,7 @@ export const NavLogo = styled(LinkR)`
   }
 `;
 
-export const NavLogo = styled(LinkL)`
+export const NavLogo = styled(LinkS)`
   color: #101522;
   justify-self: flex-start;
   cursor: pointer;
@@ -134,7 +134,7 @@ export const NavBtnLink = styled(LinkR)`
   }
 `;
 
-export const NavBtnLink = styled(LinkL)`
+export const NavBtnLink = styled(LinkS)`
   border-radius: 50px;
   background: #fff;
   padding: 10px 22px;
